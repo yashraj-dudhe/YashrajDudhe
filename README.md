@@ -83,7 +83,7 @@ I have used my links
 	<li><a href="https://instagram.com/yashraj_dudhe"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 	<li><a href="https://github.com/yashraj-dudhe"><i class="fa fa-github" aria-hidden="true"></i></a></li>
 
-change the content inide of href = "your social media accounts links"
+change the content inside of href = "your social media accounts links"
 
 And save it and run, now once you click on social media icons it'll take you to your desired site
 
