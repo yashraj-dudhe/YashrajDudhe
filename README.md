@@ -75,9 +75,8 @@ Once you have done that save and run code you'll see your profile and background
 - **Background i used** [click here for my background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.besthdwallpaper.com%2Fabstract%2Fneon-lights-radial-motion-dt_en-US-17207.html&psig=AOvVaw0SgRkBaDe5zyGZ38V4R2Ba&ust=1643384035969000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD-v8mi0vUCFQAAAAAdAAAAABAN)
 	
 Now last step:
-- **social media links** :
+**social media links** :
 I have used my links 
-
 	<li><a href="https://t.me/yashraj_dudhe"><i class="fa fa-telegram" aria-hidden="true"></i></a></li>
 	<li><a href="https://twitter.com/yashrajdudhe"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 	<li><a href="https://instagram.com/yashraj_dudhe"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
