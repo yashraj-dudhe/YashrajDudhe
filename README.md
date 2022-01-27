@@ -1,6 +1,6 @@
 # 👋 Hello developer!
 **This project contains a basic HTML structure to create your portfolio** 🦄
--by  **Yashraj Dudhe**
+- by **Yashraj Dudhe**
 
 
 ## 🏗 What's next? 
