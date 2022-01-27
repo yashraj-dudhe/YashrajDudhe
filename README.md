@@ -75,7 +75,6 @@ Once you have done that save and run code you'll see your profile and background
 - **Background i used** [click here for my background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.besthdwallpaper.com%2Fabstract%2Fneon-lights-radial-motion-dt_en-US-17207.html&psig=AOvVaw0SgRkBaDe5zyGZ38V4R2Ba&ust=1643384035969000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD-v8mi0vUCFQAAAAAdAAAAABAN)
 	
 Now last step:
-
 - **social media links** :
 I have used my links 
 
@@ -88,7 +87,7 @@ change the content inide of href = "your social media accounts links"
 
 And save it and run, now once you click on social media icons it'll take you to your desired site
 
-<img src = " https://telegra.ph/file/78fe24a013fa33fb929ef.jpg"/>
+![Output](https://telegra.ph/file/78fe24a013fa33fb929ef.jpg)
 
 # 👋 Your portfolio is ready, Thanks for reading
 
