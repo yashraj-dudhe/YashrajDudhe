@@ -88,6 +88,8 @@ change the content inide of href = "your social media accounts links"
 
 And save it and run, now once you click on social media icons it'll take you to your desired site
 
+<img src = " https://telegra.ph/file/78fe24a013fa33fb929ef.jpg"/>
+
 # 👋 Your portfolio is ready, Thanks for reading
 
 ### ⛑ Need Help?
